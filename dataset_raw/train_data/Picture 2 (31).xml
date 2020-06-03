@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pictures 2</folder>
+	<filename>Picture 2 (31).png</filename>
+	<path>C:\Users\Anna\Documents\Studium\Traffic light pictures\Pictures 2\Picture 2 (31).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red trafficlight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>306</xmin>
+			<ymin>107</ymin>
+			<xmax>335</xmax>
+			<ymax>156</ymax>
+		</bndbox>
+	</object>
+</annotation>
