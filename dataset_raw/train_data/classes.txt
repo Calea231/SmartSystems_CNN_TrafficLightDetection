@@ -1,0 +1,4 @@
+red yellow trafficlight
+green trafficlight
+yellow trafficlight
+red trafficlight
