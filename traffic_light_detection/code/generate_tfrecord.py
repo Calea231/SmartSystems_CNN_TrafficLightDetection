@@ -18,6 +18,10 @@ import pandas as pd
 import tensorflow as tf
 import sys
 
+!pip install absl-py
+from absl import app
+from absl import flags
+
 sys.path.append("../../models/research")
 
 from PIL import Image
